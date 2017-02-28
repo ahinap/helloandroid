@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter your Fucking ass</string>
+    <string name="button_send">Send</string>
+    <string name="action_setting">Settings</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
